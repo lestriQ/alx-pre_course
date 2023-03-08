@@ -1,2 +1,3 @@
-Bitch ass Read me files everytime Updated
+How to be up to date in git
+
 
